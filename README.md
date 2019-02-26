@@ -11,7 +11,7 @@ Python is a core technology for developing.
 
 We`re also going to pass all three stages of project development: Analytics, Programming and Testing.
 
-Samara National Research University, group 6313
+Samara National Research University, group 6313.
 
 Leonid Kurepin,
 Alexander Lisetsky,
