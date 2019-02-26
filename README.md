@@ -13,7 +13,7 @@ We`re also going to pass all three stages of project development: Analytics, Pro
 
 Samara National Research University, group 6313
 
-Leonid Kurepin
-Alexander Lisetsky
-Andrey Ionov
-Andrey Kuznetsov
+Leonid Kurepin,
+Alexander Lisetsky,
+Andrey Ionov,
+Andrey Kuznetsov.
