@@ -1,0 +1,4 @@
+# exclude .idea and venv everywhere
+
+**/.idea
+**/venv
