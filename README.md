@@ -17,3 +17,5 @@ Leonid Kurepin,
 Alexander Lisetsky,
 Andrey Ionov,
 Andrey Kuznetsov.
+
+THIS REPO IS NO LONGER ACTIVE. CHECK OUR NEW ONE CALLED 'clothes-catalogue'.
